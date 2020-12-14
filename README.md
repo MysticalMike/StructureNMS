@@ -1,2 +1,3 @@
 # StructureNMS
-Plugin to generate minecraft structures
+
+Type "/s gen" to generate structure
