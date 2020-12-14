@@ -1,0 +1,8 @@
+main: cf.mysty.structures.Main
+name: Structures
+version: 1.0
+author: Mysty
+api-version: 1.16
+
+commands:
+  s:
